@@ -3,4 +3,7 @@ __pycache__
 **/*.mod
 **/*.o
 **/*.tmp.f90
-
+/doc/html/
+/doc/webpage.tar.gz
+/doc/Doxyfile
+>>>>>>> develop
